@@ -30,6 +30,8 @@ End-user has functioing Vagrant installation on any Operating System.
         default: What switch would you like to use?
     ```
 
+    Note: Using Git-Bash, the External VSwitch option seemed to be the only one that worked and allowed connectivity from my WSL installation.
+
 1. Get any Network information
 
     ```bash
